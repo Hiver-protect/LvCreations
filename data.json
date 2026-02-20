@@ -1,0 +1,26 @@
+{
+  "levels": {},
+  "tickets": {},
+  "reactionRoles": {},
+  "statsMessageId": "1467423324152926385",
+  "infoMessageId": "1467423322542182462",
+  "guildSettings": {
+    "1214294361400156212": {
+      "prefix": "/",
+      "language": "fr",
+      "captchaEnabled": true,
+      "captchaType": "image",
+      "welcomeChannel": null,
+      "logsChannel": null,
+      "ticketCategory": null,
+      "staffRole": null,
+      "modLogChannel": null,
+      "autoModeration": true,
+      "antiRaid": true,
+      "antiSpam": true,
+      "levelSystem": true,
+      "musicFormat": "high",
+      "timezone": "Europe/Paris"
+    }
+  }
+}
